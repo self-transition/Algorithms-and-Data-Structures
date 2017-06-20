@@ -1,7 +1,7 @@
 # Coursera-algorithms课程总结
----
+-
 ## 第一周
----
+
 ## Percolation
 
 本周编程作业是Percolation，求解渗透问题，并通过Monte Carlo方法模拟找到渗透的阈值。
